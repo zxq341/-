@@ -1,1 +1,1 @@
-# -
+# campus-canteen-system
